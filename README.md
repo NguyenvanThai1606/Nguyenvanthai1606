@@ -1,15 +1,21 @@
-# Hi 👋
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
-I'm Thai Nguyen, welcome to my profile.
+# Hi 👋 I'm Thai Nguyen
 
-I enjoy creating useful software and exploring different areas of software development.
+### Software Engineer
+
+Building software with passion.
+
+---
 
 ## 🚀 About Me
 
-- 💻 I enjoy building practical software projects.
-- 📖 I like learning new programming technologies.
-- 🌱 Currently improving my backend development skills.
-- ⚡ I believe writing clean and readable code is important.
+- 💻 Passionate about software development
+- 📚 Always learning new technologies
+- 🎯 Building useful projects
+- ⚡ Writing clean and maintainable code
 
 ---
 
@@ -45,24 +51,3 @@ I enjoy creating useful software and exploring different areas of software devel
 - VS Code
 - Docker
 - Linux
-
----
-
-## 📈 GitHub Stats
-
-Coming soon...
-
----
-
-## 🚀 Featured Projects
-
-- Portfolio Website
-- Task Management System
-- REST API
-- Weather Dashboard
-
----
-
-## 📫 Contact
-
-Email: thainguyenvan359@gmail.com
