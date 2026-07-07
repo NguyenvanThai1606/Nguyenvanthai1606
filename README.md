@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Thai Nguyen</h1>
 
 <p align="center">
-Building ideas into software, one project at a time.
+  Building ideas into software, one project at a time.
 </p>
 
 ---
