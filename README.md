@@ -21,48 +21,36 @@ Building software, exploring AI, and learning something new every day.
 # 🚀 About Me
 
 ```java
-class ThaiNguyen {
+public class ThaiNguyen {
+
+    String name = "Thai Nguyen";
 
     String role = "Software Engineer";
 
+    String location = "Vietnam";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "PHP"
+    };
+
     String[] interests = {
         "Backend Development",
-        "Full Stack Development",
+        "Software Architecture",
         "Artificial Intelligence",
-        "Software Architecture"
+        "Cloud Computing"
     };
 
-    String[] currentlyLearning = {
-        "System Design",
-        "Docker",
-        "Cloud Computing",
-        "Linux"
-    };
+    String currentlyLearning = "System Design";
 
-    String motto = "Never stop learning.";
+    String motto = "Never stop building.";
 }
-```
-
 ---
 
-# 💻 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,php,js"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
-
-</p>
-
----
-
+```md
 # 📈 GitHub Statistics
 
 <p align="center">
@@ -85,42 +73,57 @@ class ThaiNguyen {
 
 ---
 
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nguyenvanthai1606&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
 # 🛠 Current Focus
 
-- 🚀 Building real-world software projects
-- 📚 Improving backend development skills
-- 🌐 Learning Cloud & DevOps
-- 🤝 Contributing to open-source
-- ⚡ Writing clean and maintainable code
+- ✅ Build production-ready software
+- ✅ Improve Backend Development
+- ✅ Learn Cloud Computing & DevOps
+- ✅ Contribute to Open Source
+- ✅ Practice Data Structures & Algorithms
+- ✅ Learn something new every day
 
 ---
 
 # 🌟 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 ### 🏨 Hotel Management System
 
 Laravel • PHP • MySQL
 
-A web application for hotel management including booking, authentication and administration.
+A hotel management system with authentication, booking, dashboard and admin panel.
 
 </td>
 
 <td width="50%">
 
-### 🎵 Audio Streaming Website
+### 🎵 Audio Streaming Platform
 
 HTML • CSS • JavaScript • PHP
 
-A modern website for listening to audio stories and novels online.
+An online platform for listening to audio stories and novels with a modern UI.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🤖 AI Automation Tools
@@ -133,22 +136,23 @@ Automation scripts using APIs and AI technologies.
 
 <td width="50%">
 
-### 💡 More Projects Coming Soon...
+### 🚀 More Projects Coming Soon
 
-Stay tuned.
+Always building something new.
 
 </td>
+
 </tr>
+
 </table>
 
----
-
-# 🏆 Achievements
+---# 🏆 Achievements
 
 - 🎓 Information Technology Student
-- 💻 Passionate Software Developer
+- 💻 Backend Developer
+- 🤖 Artificial Intelligence Enthusiast
+- 🌍 Open Source Explorer
 - 📚 Lifelong Learner
-- 🚀 Open Source Enthusiast
 
 ---
 
@@ -180,6 +184,6 @@ Stay tuned.
 
 <p align="center">
 
-<i>"The best way to predict the future is to build it."</i>
+<i>"Code. Learn. Build. Repeat."</i>
 
 </p>
