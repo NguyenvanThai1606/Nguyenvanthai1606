@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**NguyenvanThai1606/Nguyenvanthai1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thai Nguyen, welcome to my profile.
 
-Here are some ideas to get you started:
+I enjoy creating useful software and exploring different areas of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I enjoy building practical software projects.
+- 📖 I like learning new programming technologies.
+- 🌱 Currently improving my backend development skills.
+- ⚡ I believe writing clean and readable code is important.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Java
+- Python
+- JavaScript
+- PHP
+
+### Frontend
+
+- HTML
+- CSS
+- Bootstrap
+
+### Backend
+
+- Laravel
+- Node.js
+
+### Database
+
+- MySQL
+- PostgreSQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Docker
+- Linux
+
+---
+
+## 📈 GitHub Stats
+
+Coming soon...
+
+---
+
+## 🚀 Featured Projects
+
+- Portfolio Website
+- Task Management System
+- REST API
+- Weather Dashboard
+
+---
+
+## 📫 Contact
+
+Email: thainguyenvan359@gmail.com
