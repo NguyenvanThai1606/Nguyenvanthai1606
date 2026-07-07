@@ -51,40 +51,15 @@ class ThaiNguyen {
 
 <img src="https://skillicons.dev/icons?i=java,python,php,js"/>
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 
-<br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs"/>
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgresql"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
 
 </p>
-
----
-
-# 📚 Currently Learning
-
-- RESTful API Development
-- Software Architecture
-- Docker & Containerization
-- Linux Administration
-- System Design
-- Clean Code Principles
-
----
-
-# 🛠 Current Focus
-
-- 🚀 Build real-world software projects
-- 📚 Improve backend development skills
-- 🌐 Learn Cloud & DevOps
-- 🤝 Contribute to Open Source
-- ⚡ Write clean and maintainable code
 
 ---
 
@@ -103,24 +78,20 @@ class ThaiNguyen {
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nguyenvanthai1606&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=Nguyenvanthai1606&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🛠 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nguyenvanthai1606&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nguyenvanthai1606&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+- 🚀 Building real-world software projects
+- 📚 Improving backend development skills
+- 🌐 Learning Cloud & DevOps
+- 🤝 Contributing to open-source
+- ⚡ Writing clean and maintainable code
 
 ---
 
@@ -128,85 +99,65 @@ class ThaiNguyen {
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏨 Hotel Management System
 
-A hotel management system built with **Laravel**, **PHP**, and **MySQL**.
+Laravel • PHP • MySQL
 
-**Tech Stack**
-
-- Laravel
-- PHP
-- MySQL
-- Bootstrap
+A web application for hotel management including booking, authentication and administration.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎵 Audio Streaming Website
 
+HTML • CSS • JavaScript • PHP
+
 A modern website for listening to audio stories and novels online.
 
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🤖 AI Automation Tools
 
-Automation scripts and AI utilities built with Python.
+Python
 
-**Tech Stack**
-
-- Python
-- REST API
-- Automation
+Automation scripts using APIs and AI technologies.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🚀 More Projects
+### 💡 More Projects Coming Soon...
 
-I'm continuously building new software projects.
-
-Stay tuned!
+Stay tuned.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 📊 Development Goals
+# 🏆 Achievements
 
-- 🚀 Build more complete software projects
-- 📚 Master Backend Development
-- ☁️ Learn Cloud Computing
-- 🐳 Improve Docker & Linux skills
-- 🤝 Contribute to Open Source
-- 💡 Learn something new every day
+- 🎓 Information Technology Student
+- 💻 Passionate Software Developer
+- 📚 Lifelong Learner
+- 🚀 Open Source Enthusiast
 
 ---
 
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nguyenvanthai1606&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://komarev.com/ghpvc/?username=Nguyenvanthai1606&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
 </p>
 
 ---
@@ -216,11 +167,11 @@ Stay tuned!
 <p align="center">
 
 <a href="mailto:thainguyenvan359@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/Nguyenvanthai1606">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -228,9 +179,7 @@ Stay tuned!
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</p>
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
+<i>"The best way to predict the future is to build it."</i>
+
 </p>
