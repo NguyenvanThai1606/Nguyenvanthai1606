@@ -1,89 +1,169 @@
+```{=html}
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Thai Nguyen Banner">
+```
+`<img src="assets/banner.png" width="100%" alt="Thai Nguyen Banner">`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Thai Nguyen
+```{=html}
+</h1>
+```
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Always+Learning;Building+Real+Projects" alt="Typing SVG">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer;Always+Learning;Building+Real+Projects" alt="Typing SVG">`{=html}
+```{=html}
 </p>
-
-<h1 align="center">Hi 👋, I'm Thai Nguyen</h1>
-
+```
+```{=html}
 <p align="center">
-  <b>Software Engineer | Backend Developer | Lifelong Learner</b>
+```
+`<b>`{=html}Software Engineer • Backend Developer • Technology
+Enthusiast`</b>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  Building ideas into software, one project at a time.
+```
+Building software, exploring AI, and learning something new every day.
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<h2 align="center">🚀 About Me</h2>
+# 🚀 About Me
 
-I'm passionate about building software that solves real-world problems. I enjoy learning new technologies, exploring different areas of software development, and improving my skills through hands-on projects.
+``` java
+class ThaiNguyen {
 
-- 💻 Interested in Backend & Full-Stack Development
-- 🌱 Always learning and exploring new technologies
-- 🛠️ Building practical projects to improve my skills
-- 📖 Writing clean, readable and maintainable code
-- 🎯 Working toward becoming a better software engineer every day
+    String role = "Software Engineer";
 
----
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Software Architecture"
+    };
 
-<h2 align="center">🛠️ Tech Stack</h2>
+    String[] currentlyLearning = {
+        "System Design",
+        "Docker",
+        "Cloud Computing",
+        "Linux"
+    };
 
+    String motto = "Never stop learning.";
+}
+```
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+```{=html}
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,bootstrap,laravel,nodejs,mysql,postgresql,git,github,vscode,docker,linux" />
+```
+`<img src="https://skillicons.dev/icons?i=java,python,php,js"/>`{=html}
+`<br>`{=html}
+`<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>`{=html}
+`<br>`{=html}
+`<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgresql"/>`{=html}
+`<br>`{=html}
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<h2 align="center">📚 Currently Learning</h2>
+# 📈 GitHub Statistics
 
-- RESTful API Development
-- Software Architecture
-- Docker & Containerization
-- Linux Administration
-- System Design
-- Clean Code Principles
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-- 🚀 Build high-quality software projects
-- 🌍 Contribute to open-source projects
-- ☁️ Learn Cloud & DevOps
-- 📈 Improve backend development skills
-- 💡 Learn something new every day
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
+```{=html}
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nguyenvanthai1606&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenvanthai1606&layout=compact&theme=github_dark&hide_border=true" />
+```
+`<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nguyenvanthai1606&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nguyenvanthai1606&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<h2 align="center">🌟 Featured Projects</h2>
+# 🔥 GitHub Streak
 
+```{=html}
 <p align="center">
-🚧 Featured projects will be added soon.
+```
+`<img src="https://streak-stats.demolab.com?user=Nguyenvanthai1606&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<h2 align="center">📫 Connect With Me</h2>
+# 🛠 Current Focus
 
+-   🚀 Build real-world software projects
+-   📚 Improve backend development skills
+-   🌐 Learn Cloud & DevOps
+-   🤝 Contribute to open source
+-   ⚡ Write clean and maintainable code
+
+------------------------------------------------------------------------
+
+# 🌟 Featured Projects
+
+  Project                      Description
+  ---------------------------- ----------------------------------
+  🏨 Hotel Management System   Laravel • PHP • MySQL
+  🎵 Audio Streaming Website   HTML • CSS • JavaScript • PHP
+  🤖 AI Automation Tools       Python
+  🚀 More Coming Soon          New projects will be added here.
+
+------------------------------------------------------------------------
+
+# 👀 Profile Views
+
+```{=html}
 <p align="center">
-<a href="mailto:your_email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/Nguyenvanthai1606">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+```
+`<img src="https://komarev.com/ghpvc/?username=Nguyenvanthai1606&label=Profile+Views&style=for-the-badge&color=0e75b6"/>`{=html}
+```{=html}
 </p>
+```
+
+------------------------------------------------------------------------
+
+# 📫 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="mailto:thainguyenvan359@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">`{=html}
+`</a>`{=html}
+
+`<a href="https://github.com/Nguyenvanthai1606">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">`{=html}
+`</a>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<i>`{=html}"The best way to predict the future is to build
+it."`</i>`{=html}
+```{=html}
+</p>
+```
